@@ -1,7 +1,7 @@
 # Scrips
 
 Creators:
-        Wanderson Lima
-        André Graça
-        Rodrigo Brasil
-        Cristiano Garcia
+        Wanderson Lima,
+        André Graça,
+        Rodrigo Brasil,
+        Cristiano Garcia.
