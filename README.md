@@ -1,4 +1,4 @@
-# Scrips
+# Scripts
 
 Creators:
         Wanderson Lima,
