@@ -26,12 +26,12 @@ New-ADOrganizationalUnit `
   -Path "DC=$domainName" 
 
 # Create user
-$username = "jdoe"
+$username = "MScott"
 $password = ConvertTo-SecureString "Password1" -AsPlainText -Force
 New-ADUser `
-  -Name "John Doe"
-  -GivenName "John"
-  -Surname "Doe" 
+  -Name "Michael Scott"
+  -GivenName "Michael"
+  -Surname "Scott" 
   -SamAccountName $username 
   -AccountPassword $password
   -Enabled $true
