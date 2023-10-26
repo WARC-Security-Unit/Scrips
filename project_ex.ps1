@@ -22,7 +22,7 @@ $dnsServer.Zones[0].DynamicUpdate = "Secure"
 
 # Create OU
 New-ADOrganizationalUnit `
-  -Name "Sales" `
+  -Name "Chiefs" `
   -Path "DC=$domainName" 
 
 # Create user
